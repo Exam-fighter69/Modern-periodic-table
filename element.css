@@ -1,0 +1,20 @@
+body{
+	font-family: garamond;
+	background-color: #c4ad6c;
+}
+.header{
+	text-align:center;
+	color: #650b6b;
+	font-size: 40px;
+	text-decoration: underline;
+}
+.h1{
+	color: #1a5755;
+	/* font-size:25px; */
+	
+}
+p{
+	text-align:left;
+	
+	/* font-size: 15px; */
+}
